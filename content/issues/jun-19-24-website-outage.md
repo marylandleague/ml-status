@@ -8,6 +8,8 @@ resolvedWhen: ""
 affected:
   - Website
   - API
+  - CloudFlare
+  - ""
 severity: down
 ---
 Maryland League website is down due to a cloud service outage. We will update with new information as it becomes available.
