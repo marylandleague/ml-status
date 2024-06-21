@@ -2,7 +2,7 @@ title: Maryland League System Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://status.marylandleague.com/
+baseURL: https://status.marylandleague.com
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
