@@ -3,7 +3,7 @@ section: issue
 title: Website Outage
 date: 2024-06-19T08:30:00.000Z
 resolved: false
-pin: false
+pin: true
 resolvedWhen: ""
 affected:
   - Website
