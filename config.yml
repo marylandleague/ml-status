@@ -51,7 +51,7 @@ params:
   brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
-  logo: ml status.png
+  logo: /img/ml-status.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
@@ -70,5 +70,5 @@ params:
   description: We continuously monitor the status of our services. In the event of
     any interruptions, updates and relevant information will be promptly posted
     here.
-  enableCustomHTML: true
+  enableCustomHTML: false
   useLargeHeaderDesign: false
