@@ -37,8 +37,9 @@ params:
   shortDateFormat: 15:04 — Jan 2 UTC
   down: "#e60000"
   systems:
-    - name: API
+    - name: APIs
       category: Uncategorized
+      description: ML APIs and Endpoints
     - name: Website
       category: Uncategorized
       description: The marylandleague.com website and its services.
