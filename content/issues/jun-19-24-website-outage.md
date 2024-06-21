@@ -5,6 +5,7 @@ resolved: false
 severity: down
 affected:
     - Website
+    - API
 section: issue
 ---
 
