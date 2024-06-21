@@ -34,7 +34,7 @@ params:
   skipSeconds: true
   useRelativeTime: true
   disableDarkMode: false
-  shortDateFormat: 15:04 — Jan 2
+  shortDateFormat: 15:04 — Jan 2 UTC
   down: "#e60000"
   systems:
     - name: API
@@ -47,7 +47,7 @@ params:
       category: Third Party
     - name: Payments
       category: Third Party
-  dateFormat: January 2, 2006 at 3:04 PM
+  dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
   headerTextColor: white
