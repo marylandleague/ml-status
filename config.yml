@@ -146,7 +146,7 @@ params:
     - name: Uncategorized
       untitled: true
     - name: Third Party
-      closed: true
+      closed: false
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -161,6 +161,10 @@ params:
     - name: Website
       category: Uncategorized
       link: https://marylandleague.com
+    - name: CloudFlare
+      category: Third Party
+    - name: Mail Server
+      category: Third Party
     - name: Payments
       category: Third Party
 
