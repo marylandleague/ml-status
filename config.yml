@@ -160,7 +160,6 @@ params:
       category: Uncategorized
     - name: Website
       category: Uncategorized
-      link: https://marylandleague.com
     - name: CloudFlare
       category: Third Party
     - name: Mail Server
@@ -287,7 +286,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: We continuously monitor the status of our services. In the event of any interruptions, updates and relevant information will be promptly posted here.
 
   # Tabs on homepage
   # Uncomment to enable.
