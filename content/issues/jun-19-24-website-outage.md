@@ -6,8 +6,8 @@ resolved: false
 pin: true
 resolvedWhen: ""
 affected:
-  - Website
-  - API
+  - Web Application
+  - APIs
 severity: down
 ---
 **UPDATE 6/21/24 4:40 PM ET** - Service is expected to return within 24 hours.
