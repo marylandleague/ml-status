@@ -65,7 +65,7 @@ params:
   categories:
     - name: Uncategorized
       untitled: true
-      closed: true
+      closed: false
     - name: Third Party
       closed: false
   description: We continuously monitor the status of our services. In the event of
