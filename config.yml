@@ -31,7 +31,7 @@ outputFormats:
     mediaType: image/svg+xml
 enableGitInfo: true
 params:
-  skipSeconds: true
+  skipSeconds: false
   useRelativeTime: true
   disableDarkMode: false
   shortDateFormat: 15:04 — Jan 2 UTC
@@ -70,5 +70,5 @@ params:
   description: We continuously monitor the status of our services. In the event of
     any interruptions, updates and relevant information will be promptly posted
     here.
-  enableCustomHTML: false
+  enableCustomHTML: true
   useLargeHeaderDesign: false
