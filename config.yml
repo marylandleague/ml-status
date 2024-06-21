@@ -144,9 +144,9 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: Uncategorized
-        untitled: true
+      untitled: true
     - name: Third Party
-        closed: true
+      closed: true
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -157,12 +157,12 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: API
-        category: Uncategorized
+      category: Uncategorized
     - name: Website
-        category: Uncategorized
-        link: https://marylandleague.com
+      category: Uncategorized
+      link: https://marylandleague.com
     - name: Payments
-        category: Third Party
+      category: Third Party
 
   # What date format to use?
   #
