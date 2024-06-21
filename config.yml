@@ -41,6 +41,7 @@ params:
       category: Uncategorized
     - name: Website
       category: Uncategorized
+      description: The marylandleague.com website and its services.
     - name: CloudFlare
       category: Third Party
     - name: Mail Server
