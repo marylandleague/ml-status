@@ -8,7 +8,7 @@ resolvedWhen: ""
 affected:
   - Web Application
   - APIs
-severity: disrupted
+severity: notice
 ---
 **UPDATE 6/24/24 10:17 AM ET** - Website and services are operational. We are running maintenance to ensure everything works as it should.
 
