@@ -4,7 +4,7 @@ title: Website Outage
 date: 2024-06-19T08:30:00.000Z
 resolved: true
 pin: false
-resolvedWhen: ""
+resolvedWhen: 2024-06-25T04:06:11.462Z
 affected:
   - Web Application
   - APIs
