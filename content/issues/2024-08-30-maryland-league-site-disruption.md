@@ -2,11 +2,11 @@
 section: issue
 title: Maryland League Site Disruption
 date: 2024-08-30T20:15:18.429Z
-resolved: false
+resolved: true
 draft: false
 informational: false
 pin: false
-resolvedWhen: ""
+resolvedWhen: 2024-08-30T20:39:35.099Z
 affected:
   - Web Application
   - APIs
