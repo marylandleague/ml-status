@@ -8,8 +8,8 @@ informational: false
 pin: true
 resolvedWhen: 2024-12-30T14:17:23.554Z
 affected:
-  - web-application
-  - apis
+  - APIs
+  - Web Application
   - ""
 severity: disrupted
 ---
