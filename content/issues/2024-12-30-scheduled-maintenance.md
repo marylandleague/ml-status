@@ -11,6 +11,6 @@ affected:
   - web-application
   - apis
   - ""
-severity: notice
+severity: disrupted
 ---
 *W﻿e are currently down for scheduled maintenance.*
